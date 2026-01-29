@@ -11,7 +11,7 @@ Masuk ke folder server lalu jalankan perintah berikut secara berurutan:
 npm install
 composer install
 
-## 2. Setup database (pastikan file .env sudah dikonfigurasi)
+## 2. Setup database (pastikan file .env sudah dikonfigurasi [.env.example])
 
 php artisan migrate
 
