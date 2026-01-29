@@ -84,8 +84,4 @@ npm run dev
   2.  **Logging:** Mencatat data setiap request yang masuk.
   3.  **Parsing:** Mengubah body request menjadi format JSON.
 
-5. Cara Menjalankan Project
-   Ikuti langkah-langkah di bawah ini untuk menjalankan aplikasi (Backend & Frontend).
 
-Backend (Server)
-Masuk ke folder server lalu jalankan perintah berikut secara berurutan:
